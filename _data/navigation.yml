@@ -9,8 +9,8 @@ main:
   # - title: "Awards & Honors"
   #   url: /awards/
 
-  - title: "Research Projects"
-    url: /projects/    
+  #- title: "Research Projects"
+  #  url: /projects/    
 
   # - title: "Teaching"
   #   url: /teaching/    
