@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Lantao Yu (于澜涛)"
+title: "Sejoon Oh (오세준)"
 permalink: /cv/
 author_profile: true
 redirect_from:
