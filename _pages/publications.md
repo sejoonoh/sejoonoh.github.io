@@ -24,7 +24,7 @@ Namyong Park, **Sejoon Oh**, and U Kang.
 ## 2018
 
 <b>[GIFT: Guided and Interpretable Factorization for Tensors with an Application to Large-Scale Multi-platform Cancer Analysis](https://doi.org/10.1093/bioinformatics/bty490)</b> <br>
-<b>Sejoon Oh*</b>, Jungwoo Lee*, and Lee Sael (* these authors contributed equally to this work).  
+**Sejoon Oh#**, Jungwoo Lee#, and Lee Sael (# these authors contributed equally to this work).  
 (**[Paper](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/GIFT_bioinformatics.pdf)** | **[Homepage](https://github.com/leesael/GIFT)** | **[BIBTEX](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/GIFT.bib)**)  
 <i>Bioinformatics, 2018</i>.
 
