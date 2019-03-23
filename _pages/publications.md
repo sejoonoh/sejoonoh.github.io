@@ -4,44 +4,35 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Deep Learning
+## 2019
 
-<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu.
-<i>In submission to ICML 2019.</i>
+<b>[Fast, Accurate and Provable Triangle Counting in Fully Dynamic Graph Streams](http://www.cs.cmu.edu/~kijungs/thinkd/)</b> <br>
+Kijung Shin, **Sejoon Oh**, Jisu Kim, Bryan Hooi, and Christos Faloutsos.  
+<i>**Under revision**, ACM Transactions on Knowledge Discovery from Data (TKDD) 2019.</i>
 
-<b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
-Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>In submission to ICML 2019.</i>
+<b>[High-Performance Tucker Factorization on Heterogeneous Platforms](https://github.com/sejoonoh/GTA-Tensor)</b> <br>
+**Sejoon Oh**, Namyong Park, Jun-Gi Jang, Lee Sael, and U Kang.  
+<i>**To Appear**, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2019.</i>
 
-<b>[Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets](http://lantaoyu.com/publications/GanGradient)</b> <br>
-Zhiming Zhou, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Zhihua Zhang, Weinan Zhang, Yong Yu.
-<i>ArXiv 2018.</i>
 
-<b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
-<b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu.
-<i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
+<b>[Fast and Scalable Method for Distributed Boolean Tensor Factorization](https://link.springer.com/article/10.1007%2Fs00778-019-00538-z)</b> <br>
+Namyong Park, **Sejoon Oh**, and U Kang.  
+<i>VLDB Journal, 2019.</i>
 
-<b>[IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](http://lantaoyu.com/publications/IRGAN)</b><br>
-Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang.
-<i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> <b>SIGIR 2017</b>. <b> <span style="color:red">Best Paper Award Honorable Mention</span> </b>
+## 2018
 
-<b>[A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration](http://lantaoyu.com/publications/DADM)</b><br>
-<b>Lantao Yu\*</b>, Xuejian Wang\*, Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang.
-<i>The 23rd SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2017</b>.
+<b>[GIFT: Guided and Interpretable Factorization for Tensors with an Application to Large-Scale Multi-platform Cancer Analysis](https://doi.org/10.1093/bioinformatics/bty490)</b> <br>
+<b>Sejoon Oh*</b>, Jungwoo Lee*, and Lee Sael (* these authors contributed equally to this work).  
+<i>Bioinformatics, 2018</i>.
 
-## Multi-Agent Systems & Computational Sustainability
+<b>[Scalable Tucker Factorization for Sparse Tensors - Algorithms and Discoveries](https://ieeexplore.ieee.org/document/8509325)</b><br>
+**Sejoon Oh**, Namyong Park, Lee Sael, and U Kang.  
+<i>IEEE International Conference on Data Engineering (ICDE 2018), Paris, France.</i>  
+**Gold Prize Winner (1st in CS) @ Samsung HumanTech Paper Award**  
+**Best Undergraduate Thesis Award @ Seoul National University**
 
-<b>[Deep Reinforcement Learning for Green Security Games with Real-Time Information](http://lantaoyu.com/publications/RLSGAAAI19)</b><br>
-Yufei Wang, Zheyuan Ryan Shi, <b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa, Fei Fang.
-<i>The Thirty-Third AAAI Conference on Artificial Intelligence.</i> <b>AAAI 2019</b>.
+## 2017
 
-<b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
-<b>Lantao Yu\*</b>, Yaodong Yang\*, Yiwei Bai\*, Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.
-
-<b>[Exploiting Real-World Data and Human Knowledge for Predicting Wildlife Poaching](http://lantaoyu.com/publications/COMPASS18)</b><br>
-Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.
-
-<b>[Deep Reinforcement Learning for Green Security Game with Online Information](http://lantaoyu.com/publications/RLSG)</b><br>
-<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
-
-[\* denotes equal contribution]
+<b>[Fast and Scalable Distributed Boolean Tensor Factorization](https://ieeexplore.ieee.org/document/7930048)</b><br>
+Namyong Park, **Sejoon Oh**, and U Kang.  
+<i>IEEE International Conference on Data Engineering (ICDE 2017), San Diego, California, USA.
