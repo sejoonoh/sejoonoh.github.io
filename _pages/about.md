@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Ph.D. student in the [Computational Biology Department](https://cbd.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). [[Curriculum Vitae]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_Sejoon_Oh_2019.pdf).
+* I am a Ph.D. student in the [Computational Biology Department](http://www.cbd.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). [[Curriculum Vitae]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_Sejoon_Oh_2019.pdf).
 * I received my Bachelor’s Degree in [Seoul National University](http://snu.ac.kr). My undergraduate research advisor was [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/), and I was a research intern in [SNU Data Mining LAB](https://datalab.snu.ac.kr/) for 2 years.
 * My research interests include data mining and knowledge discovery, machine learning, parallel and high-performance computing, and computational biology.
 
