@@ -10,10 +10,10 @@ author_profile: true
 Kijung Shin, **Sejoon Oh**, Jisu Kim, Bryan Hooi, and Christos Faloutsos.  
 <i>**Under revision**, ACM Transactions on Knowledge Discovery from Data (TKDD) 2019.</i>
 
-<b>[High-Performance Tucker Factorization on Heterogeneous Platforms](https://github.com/sejoonoh/GTA-Tensor)</b> <br>
+<b>[High-Performance Tucker Factorization on Heterogeneous Platforms](https://ieeexplore.ieee.org/document/8678477)</b> <br>
 **Sejoon Oh**, Namyong Park, Jun-Gi Jang, Lee Sael, and U Kang.  
-(**[Paper](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/GTA_paper.pdf)** | **[Code](https://github.com/sejoonoh/GTA-Tensor)**)  
-<i>**To Appear**, IEEE Transactions on Parallel and Distributed Systems (TPDS), 2019.</i>
+(**[Paper](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/GTA_paper.pdf)** | **[Code](https://github.com/sejoonoh/GTA-Tensor)** | **[BIBTEX](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/GTA.bib)**)  
+<i>IEEE Transactions on Parallel and Distributed Systems (TPDS), 2019.</i>
 
 
 <b>[Fast and Scalable Method for Distributed Boolean Tensor Factorization](https://link.springer.com/article/10.1007%2Fs00778-019-00538-z)</b> <br>
