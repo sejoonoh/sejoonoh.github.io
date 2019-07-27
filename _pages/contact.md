@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computational Biology Department, Carnegie Mellon University<br>
-5000 Forbes Ave GHC 7725, Pittsburgh, PA 15213<br>
-Email: sejoono2 [at] cs.cmu.edu
+School of Computational Science and Engineering, Georgia Institute of Technologyy<br>
+756 West Peachtree Street Northwest, Atlanta, GA 30308<br>
+Email: soh337 [at] gatech.edu
 
