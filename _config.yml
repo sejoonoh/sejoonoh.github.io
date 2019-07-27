@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sejoon Oh"
 title_separator          : "-"
 name                     : &name "Sejoon Oh"
-description              : &description "PhD student, Carnegie Mellon University"
+description              : &description "PhD student, Georgia Institute of Technology"
 url                      : https://sejoonoh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sejoonoh/sejoonoh.github.io"
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Sejoon Oh"
   avatar           : "SejoonOh_Head_to_Shoulder.jpg"
-  bio              : "PhD student, Computational Biology Department, Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "PhD student, School of Computational Science and Engineering , Georgia Institute of Technology"
+  location         : "Atlanta, GA"
   employer         : 
   googlescholar    : "https://scholar.google.co.kr/citations?user=q_6hq64AAAAJ&hl=en"
   email            : "sejun6431@gmail.com"
@@ -202,7 +202,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Pittsburgh # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Atlanta # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
