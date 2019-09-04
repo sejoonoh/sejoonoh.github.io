@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Sejoon Oh** is a Ph.D. student in Computational Biology Department of Carnegie Mellon University.  
+**Sejoon Oh** is a Ph.D. student in Computer Science of Georgia Institute of Technology.  
 He received B.S. in Computer Science and Engineering at Seoul National University.  
 He won 2018 Samsung HumanTech Best Paper Award, 2018 SNU Undergraduate Thesis Award, 2017 Korean National Scholarship, and Silver Medal in APIO 2011.  
 He has published 5 referred articles in major data mining, parallel computing, and machine learning venues.  
