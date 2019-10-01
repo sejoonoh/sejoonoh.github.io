@@ -11,7 +11,7 @@ redirect_from:
 
 **Sejoon Oh** is a Ph.D. student in Computer Science of Georgia Institute of Technology.  
 He received B.S. in Computer Science and Engineering at Seoul National University.  
-He is currently receiving Kwanjeong Educational Foundation Fellowship during his PhD.
+He is currently receiving Kwanjeong Educational Foundation Fellowship during his PhD.  
 He also won 2018 Samsung HumanTech Best Paper Award, 2018 SNU Undergraduate Thesis Award, 2017 Korean National Scholarship, and Silver Medal in APIO 2011.  
 He has published 5 referred articles in major data mining, parallel computing, and machine learning venues.  
 His research interests include data mining, machine learning, parallel and high-performance computing, and recommender system. 
