@@ -4,11 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2019
+## 2020
 
-<b>[Fast, Accurate and Provable Triangle Counting in Fully Dynamic Graph Streams](http://www.cs.cmu.edu/~kijungs/thinkd/)</b> <br>
+
+<b>[Fast, Accurate and Provable Triangle Counting in Fully Dynamic Graph Streams](http://dmlab.kaist.ac.kr/~kijungs/codes/thinkd/)</b> <br>
 Kijung Shin, **Sejoon Oh**, Jisu Kim, Bryan Hooi, and Christos Faloutsos.  
-<i>**Under revision**, ACM Transactions on Knowledge Discovery from Data (TKDD) 2019.</i>
+(**[Paper](http://dmlab.kaist.ac.kr/~kijungs/papers/thinkdTKDD2020.pdf)** | **[Code](http://dmlab.kaist.ac.kr/~kijungs/codes/thinkd/)**) 
+ACM Transactions on Knowledge Discovery from Data (TKDD) 2020.</i>
+
+## 2019
 
 <b>[High-Performance Tucker Factorization on Heterogeneous Platforms](https://ieeexplore.ieee.org/document/8678477)</b> <br>
 **Sejoon Oh**, Namyong Park, Jun-Gi Jang, Lee Sael, and U Kang.  
