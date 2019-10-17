@@ -19,7 +19,7 @@ redirect_from:
 
 * (Aug. 2019) I receive `[Kwanjeong Educational Foundation Fellowship](http://en.ikef.or.kr/)', one of the **most prestigious fellowships** in Korea, which supports up to 30K USD per year!
 
-* (May~Aug. 2019) I totally enjoyed my summer research internship @ [WATCHA, Inc.](https://team.watcha.com/), where my research topics were personalized recommender system with tensor factorization and deep neural network.
+* (May~Aug. 2019) I totally enjoyed my summer research internship @ [WATCHA, Inc.](https://team.watcha.com/) (project: personalized recommender system with tensor factorization and deep neural network).
 
 * (Mar. 2019) A paper '[High-Performance Tucker Factorization on Heterogeneous Platforms](https://ieeexplore.ieee.org/document/8678477)' is accepted to **TPDS Journal**.
 
