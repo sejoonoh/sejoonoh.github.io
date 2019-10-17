@@ -15,16 +15,10 @@ redirect_from:
 
 # What's New?
 
+* (Sep. 2019) A paper '[Fast, Accurate and Provable Triangle Counting in Fully Dynamic Graph Streams](http://dmlab.kaist.ac.kr/~kijungs/papers/thinkdTKDD2020.pdf) is accepted to **TKDD Journal**.
+
 * (Aug. 2019) I receive `[Kwanjeong Educational Foundation Fellowship](http://en.ikef.or.kr/)', one of the **most prestigious fellowships** in Korea, which supports up to 30K USD per year!
 
-* (Mar. 2019) A paper '[High-Performance Tucker Factorization on Heterogeneous Platforms](https://ieeexplore.ieee.org/document/8678477)' is accepted to **TPDS**.
+* (Mar. 2019) A paper '[High-Performance Tucker Factorization on Heterogeneous Platforms](https://ieeexplore.ieee.org/document/8678477)' is accepted to **TPDS Journal**.
 
 * (Jan. 2019) A paper '[Fast and scalable method for distributed Boolean tensor factorization](https://link.springer.com/article/10.1007%2Fs00778-019-00538-z)' is accepted to **VLDB Journal**.
-
-* (Jun. 2018) A paper '[GIFT: Guided and Interpretable Factorization for Tensors with an Application to Large-Scale Multi-platform Cancer Analysis](https://doi.org/10.1093/bioinformatics/bty490)' is published in **Bioinformatics**.
-
-* (Apr. 2018) A paper '[Scalable Tucker Factorization for Sparse Tensors - Algorithms and Discoveries](https://ieeexplore.ieee.org/document/8509325)' is published in **ICDE**.
-**Gold Prize Winner (1st in CS) @ Samsung HumanTech Paper Award**  
-**Best Undergraduate Thesis Award @ Seoul National University**
-
-
