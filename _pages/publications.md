@@ -10,7 +10,7 @@ author_profile: true
 <b>[Fast, Accurate and Provable Triangle Counting in Fully Dynamic Graph Streams](http://dmlab.kaist.ac.kr/~kijungs/codes/thinkd/)</b> <br>
 Kijung Shin, **Sejoon Oh**, Jisu Kim, Bryan Hooi, and Christos Faloutsos.  
 (**[Paper](http://dmlab.kaist.ac.kr/~kijungs/papers/thinkdTKDD2020.pdf)** | **[Code](http://dmlab.kaist.ac.kr/~kijungs/codes/thinkd/)**)   
-<i>ACM Transactions on Knowledge Discovery from Data (TKDD) 2020.</i>
+<i>ACM Transactions on Knowledge Discovery from Data (TKDD), 2020.</i>
 
 ## 2019
 
