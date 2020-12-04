@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a CS Ph.D. student advised by [Prof. Srijan Kumar](https://www.cs.stanford.edu/~srijan/) at [Georgia Institute of Technology](https://www.gatech.edu/). [[Curriculum Vitae]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_Sejoon_Oh_May2020.pdf).
+* I am a CS Ph.D. student advised by [Prof. Srijan Kumar](https://www.cs.stanford.edu/~srijan/) at [Georgia Institute of Technology](https://www.gatech.edu/). [[Curriculum Vitae]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_Sejoon_Oh_Dec2020.pdf).
 * I received my Bachelor’s Degree in Computer Science and Engineering at [Seoul National University](http://snu.ac.kr) (Advisor: [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/)), and I was a research intern in [SNU Data Mining LAB](https://datalab.snu.ac.kr/) for 2 years.
 * My research interests include machine learning and deep learning, parallel and high-performance computing, and recommender system.
 
