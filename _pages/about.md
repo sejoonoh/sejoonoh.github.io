@@ -21,6 +21,6 @@ redirect_from:
 
 * (Feb. 2020) A paper '[Fast, Accurate and Provable Triangle Counting in Fully Dynamic Graph Streams](http://dmlab.kaist.ac.kr/~kijungs/papers/thinkdTKDD2020.pdf)' is published to **TKDD Journal**.
 
-* (Aug. 2019) I receive `[Kwanjeong Educational Foundation Fellowship](http://en.ikef.or.kr/)', one of the **most prestigious fellowships** in Korea, which supports up to 30K USD per year!
+* (Aug. 2019) I receive `[Kwanjeong Educational Foundation Fellowship](http://en.ikef.or.kr/)', one of the **most prestigious fellowships** in Korea, which supports up to $20K  per year!
 
 * (May~Aug. 2019) I totally enjoyed my **summer research internship** @ [WATCHA, Inc.](https://team.watcha.com/) (project: personalized recommender system with tensor factorization and deep neural network).
