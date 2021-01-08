@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-* I am a CS Ph.D. student advised by [Prof. Srijan Kumar](https://www.cs.stanford.edu/~srijan/) at [Georgia Institute of Technology](https://www.gatech.edu/). [[Curriculum Vitae]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_Sejoon_Oh_Dec2020.pdf).
+* I am a second-year CS Ph.D. student advised by [Prof. Srijan Kumar](https://www.cc.gatech.edu/~srijan/) at [Georgia Institute of Technology](https://www.gatech.edu/). [[Curriculum Vitae]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_Sejoon_Oh_Dec2020.pdf).
 * I received my Bachelor’s Degree in Computer Science and Engineering at [Seoul National University](http://snu.ac.kr) (Advisor: [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/)), and I was a research intern in [SNU Data Mining LAB](https://datalab.snu.ac.kr/) for 2 years.
-* My research interests include machine learning and deep learning, parallel and high-performance computing, and recommender system.
+* My research interests include recommender system, adversarial machine learning, and data mining & parallel computing.
 
 
 # What's New?
+
+* (Jan. 2021) I was selected one of **Finalists** of [**2021 Twitch Research Fellowship**](https://blog.twitch.tv/en/2021/01/07/introducing-our-2021-twitch-research-fellows/), which grants $5K award to help support my academic research.
 
 * (May 2020) I started my summer **Data Science Research Intern** position at [**Adobe Research**](https://research.adobe.com/) under guidance of Dr. Sungchul Kim & Dr. Ryan Rossi! Can't wait to collaborate with talented Adobe researchers!
 
@@ -22,5 +24,3 @@ redirect_from:
 * (Aug. 2019) I receive `[Kwanjeong Educational Foundation Fellowship](http://en.ikef.or.kr/)', one of the **most prestigious fellowships** in Korea, which supports up to 30K USD per year!
 
 * (May~Aug. 2019) I totally enjoyed my **summer research internship** @ [WATCHA, Inc.](https://team.watcha.com/) (project: personalized recommender system with tensor factorization and deep neural network).
-
-* (Mar. 2019) A paper '[High-Performance Tucker Factorization on Heterogeneous Platforms](https://ieeexplore.ieee.org/document/8678477)' is accepted to **TPDS Journal**.
