@@ -15,12 +15,12 @@ redirect_from:
 
 # What's New?
 
+* (May. 2021) I started my summer **Data Science Research Intern** position at [**The Home Depot**](https://www.homedepot.com/) under guidance of Dr. Xiquan Cui & Rebecca West! I am developing a session-based recommendation model using The Home Depot.
+
+* (May. 2021) I was selected one of [**2021 ML@GT Fellow**](https://mlatgt.blog/2021/05/10/the-machine-learning-center-awards-inaugural-mlgt-fellows/), which supports 50% of the RA salary to help support my academic research.
+
 * (Jan. 2021) I was selected one of **Finalists** of [**2021 Twitch Research Fellowship**](https://blog.twitch.tv/en/2021/01/07/introducing-our-2021-twitch-research-fellows/), which grants $5K award to help support my academic research.
 
 * (May 2020) I started my summer **Data Science Research Intern** position at [**Adobe Research**](https://research.adobe.com/) under guidance of Dr. Sungchul Kim & Dr. Ryan Rossi! Can't wait to collaborate with talented Adobe researchers!
 
 * (Feb. 2020) A paper '[Fast, Accurate and Provable Triangle Counting in Fully Dynamic Graph Streams](http://dmlab.kaist.ac.kr/~kijungs/papers/thinkdTKDD2020.pdf)' is published to **TKDD Journal**.
-
-* (Aug. 2019) I receive `[Kwanjeong Educational Foundation Fellowship](http://en.ikef.or.kr/)', one of the **most prestigious fellowships** in Korea, which supports up to $20K  per year!
-
-* (May~Aug. 2019) I totally enjoyed my **summer research internship** @ [WATCHA, Inc.](https://team.watcha.com/) (project: personalized recommender system with tensor factorization and deep neural network).
