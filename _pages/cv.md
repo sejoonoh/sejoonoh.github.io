@@ -16,6 +16,6 @@ He also won 2018 Samsung HumanTech Best Paper Award, 2018 SNU Undergraduate Thes
 He has published 6 referred articles in major data mining, parallel computing, and machine learning venues.  
 His research interests include adversarial machine learning and deep learning, parallel and high-performance computing, and recommender systems. 
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_SejoonOh_Dec2020.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_Sejoon_Oh_Latest.pdf)
 
 <!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
