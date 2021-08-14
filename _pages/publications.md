@@ -4,6 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2021
+
+<b>[Influence-guided Data Augmentation for Neural Tensor Completion](https://sejoonoh.github.io/)</b> <br>
+**Sejoon Oh**, Sungchul Kim, Ryan Rossi, and Srijan Kumar.  
+<i>ACM International Conference on Information and Knowledge Management (CIKM), 2021.</i>
+
 ## 2020
 
 
