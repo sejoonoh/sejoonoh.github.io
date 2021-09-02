@@ -15,7 +15,7 @@ redirect_from:
 
 # What's New?
 
-* (Aug. 2021) A paper '[**Influence-guided Data Augmentation for Neural Tensor Completion**](https://sejoonoh.github.io)' is accepted to **CIKM 2021**! Our paper is a novel data augmentation framework for enhancing neural tensor completion.
+* (Aug. 2021) A paper '[**Influence-guided Data Augmentation for Neural Tensor Completion**](https://arxiv.org/abs/2108.10248)' is accepted to **CIKM 2021**! Our paper is a novel data augmentation framework for enhancing neural tensor completion.
 
 * (May. 2021) I started my summer **Data Science Research Intern** position at [**The Home Depot**](https://www.homedepot.com/) under guidance of Dr. Xiquan Cui & Dr. Amin Javari & Rebecca West! I am developing a session-based personalized recommendation model using the HD dataset.
 
