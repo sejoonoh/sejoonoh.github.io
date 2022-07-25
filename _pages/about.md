@@ -15,7 +15,7 @@ redirect_from:
 
 # What's New?
 
-* (Jul. 2022) A paper '**M2TRec: Metadata-aware Multi-task Transformer for Large-scale and Cold-start free Session-based Recommendations**' is accepted to **RecSys 2022 LBR**! Our paper is a novel large-scale and cold-start free session-based recommenation framework.
+* (Jul. 2022) A paper '**M2TRec: Metadata-aware Multi-task Transformer for Large-scale and Cold-start free Session-based Recommendations**' is accepted to **[RecSys 2022 LBR](https://recsys.acm.org/recsys22/)**! Our paper is a novel large-scale and cold-start free session-based recommenation framework.
 
 * (May. 2022) We filed a **provisional patent** including our collaboration project with [**The Home Depot**](https://www.homedepot.com/). Our project develops a novel hierarchical multi-task learning framework for session-based recommendations.
 
