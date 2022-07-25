@@ -26,5 +26,3 @@ redirect_from:
 * (May. 2021) I started my summer **Data Science Research Intern** position at [**The Home Depot**](https://www.homedepot.com/) under guidance of Dr. Xiquan Cui & Dr. Amin Javari & Rebecca West! I am developing a session-based personalized recommendation model using the HD dataset.
 
 * (May. 2021) I was selected one of [**2021 ML@GT Fellow**](https://mlatgt.blog/2021/05/10/the-machine-learning-center-awards-inaugural-mlgt-fellows/), which supports 50% of the RA salary to help support my academic research.
-
-* (Jan. 2021) I was selected one of **Finalists** of [**2021 Twitch Research Fellowship**](https://blog.twitch.tv/en/2021/01/07/introducing-our-2021-twitch-research-fellows/), which grants $5K award to help support my academic research.
