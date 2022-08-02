@@ -5,6 +5,14 @@ author_profile: true
 ---
 ## 2022
 
+<b>[Rank List Sensitivity of Recommender Systems to Interaction Perturbations](https://sejoonoh.github.io/publications/)</b> <br>
+**Sejoon Oh**, Julian McAuley, Berk Ustun, and Srijan Kumar.  
+<i>ACM International Conference on Information and Knowledge Management (CIKM), 2022.</i>
+
+<b>[Implicit Session Contexts for Next-Item Recommendations](https://sejoonoh.github.io/publications/)</b> <br>
+**Sejoon Oh**, Jongseok Han, Ankur Bharadwaj, Sungchul Kim, Ryan A. Rossi, and Srijan Kumar.  
+<i>ACM International Conference on Information and Knowledge Management (CIKM) short, 2022.</i>
+
 <b>[M2TRec: Metadata-aware Multi-task Transformer for Large-scale and Cold-start free Session-based Recommendations](https://sejoonoh.github.io/publications/)</b> <br>
 Walid Shalaby, **Sejoon Oh**, Amir Hossein Afsharinejad, Xiquan Cui, and Srijan Kumar.  
 <i>ACM Conference on Recommender Systems (RecSys) LBR, 2022.</i>
