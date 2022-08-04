@@ -1,5 +1,4 @@
 ---
-<!-- layout: archive -->
 title: "Sejoon Oh (오세준)"
 permalink: /cv/
 author_profile: true
