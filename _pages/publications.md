@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## 2022
 
-<b>[Rank List Sensitivity of Recommender Systems to Interaction Perturbations](https://sejoonoh.github.io/publications/)</b> <br>
+<b>[Rank List Sensitivity of Recommender Systems to Interaction Perturbations](https://arxiv.org/abs/2201.12686)</b> <br>
 **Sejoon Oh**, Julian McAuley, Berk Ustun, and Srijan Kumar.  
 <i>ACM International Conference on Information and Knowledge Management (CIKM), 2022.</i>
 
