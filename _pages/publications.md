@@ -9,7 +9,7 @@ author_profile: true
 **Sejoon Oh**, Julian McAuley, Berk Ustun, and Srijan Kumar.  
 <i>ACM International Conference on Information and Knowledge Management (CIKM), 2022.</i>
 
-<b>[Implicit Session Contexts for Next-Item Recommendations](https://sejoonoh.github.io/publications/)</b> <br>
+<b>[Implicit Session Contexts for Next-Item Recommendations](https://arxiv.org/abs/2208.09076)</b> <br>
 **Sejoon Oh**, Jongseok Han, Ankur Bharadwaj, Sungchul Kim, Ryan A. Rossi, and Srijan Kumar.  
 <i>ACM International Conference on Information and Knowledge Management (CIKM) short, 2022.</i>
 
