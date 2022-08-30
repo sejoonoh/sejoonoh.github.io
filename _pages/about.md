@@ -15,7 +15,7 @@ redirect_from:
 
 # What's New?
 
-* (Aug. 2022) Two papers '**[Rank List Sensitivity of Recommender Systems to Interaction Perturbations](https://arxiv.org/abs/2201.12686)**' and **[Implicit Session Contexts for Next-Item Recommendations](https://arxiv.org/abs/2208.09076)** are accepted to **[CIKM 2022](https://www.cikm2022.org/)** with **[SIGIR Student Travel Award]**(https://www.cikm2022.org/sigir-student-travel-grants)!
+* (Aug. 2022) Two papers '**[Rank List Sensitivity of Recommender Systems to Interaction Perturbations](https://arxiv.org/abs/2201.12686)**' and **[Implicit Session Contexts for Next-Item Recommendations](https://arxiv.org/abs/2208.09076)** are accepted to **[CIKM 2022](https://www.cikm2022.org/)** with **[SIGIR Student Travel Award](https://www.cikm2022.org/sigir-student-travel-grants)**!
 
 * (Jul. 2022) A paper '**M2TRec: Metadata-aware Multi-task Transformer for Large-scale and Cold-start free Session-based Recommendations**' is accepted to **[RecSys 2022 LBR](https://recsys.acm.org/recsys22/)**! Our paper is a novel large-scale and cold-start free session-based recommenation framework.
 
