@@ -11,7 +11,7 @@ redirect_from:
 * I am a fourth-year CS Ph.D. student advised by [Prof. Srijan Kumar](https://www.cc.gatech.edu/~srijan/) at [Georgia Institute of Technology](https://www.gatech.edu/). [[Curriculum Vitae]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_Sejoon_Oh_Latest.pdf).
 * I received my Bachelor’s Degree in Computer Science and Engineering at [Seoul National University](http://snu.ac.kr) (Advisor: [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/)), and I was a research intern in [SNU Data Mining LAB](https://datalab.snu.ac.kr/).
 * My research interests include adversarial machine learning, recommender system, natural language processing, and data mining & parallel computing.
-* I enjoy **playing tennis, working out, video gaming, traveling, and many other precious things** in our life!  
+* I enjoy **playing tennis, working out, video gaming, and traveling** in my free time!  
 
 # What's New?
 
