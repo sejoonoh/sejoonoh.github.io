@@ -15,7 +15,7 @@ redirect_from:
 
 # What's New?
 
-* (Feb. 2022) I will join **[Netflix](https://research.netflix.com/)** as a **ML research intern** working on core recommendation problems this summer! Can't wait to work on real-world movie/drama recommendations and collaborate with world-class researchers :)
+* (Jan. 2023) I will join **[Netflix](https://research.netflix.com/)** as a **ML research intern** working on core recommendation problems this summer! Can't wait to work on real-world movie/drama recommendations and collaborate with world-class researchers :)
 
 * (Aug. 2022) Two papers '**[Rank List Sensitivity of Recommender Systems to Interaction Perturbations](https://arxiv.org/abs/2201.12686)**' and **[Implicit Session Contexts for Next-Item Recommendations](https://arxiv.org/abs/2208.09076)** are accepted to **[CIKM 2022](https://www.cikm2022.org/)** with **[SIGIR Student Travel Award](https://www.cikm2022.org/sigir-student-travel-grants)**!
 
