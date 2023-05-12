@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am looking looking for **full-time research scientist/data scientist positions next year (expected graduation: May 2024)**, please contact me (sejun6431@gmail.com) if you are hiring or know good positions!  
+* I am looking for **full-time research scientist/data scientist positions next year (expected graduation: May 2024)**, please contact me (sejun6431@gmail.com) if you are hiring or know good positions!  
 * I am a fourth-year CS Ph.D. Candidate advised by [Prof. Srijan Kumar](https://www.cc.gatech.edu/~srijan/) at [Georgia Institute of Technology](https://www.gatech.edu/). [[Curriculum Vitae]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_Sejoon_Oh_Latest.pdf).
 * I received my Bachelor’s Degree in Computer Science and Engineering at [Seoul National University](http://snu.ac.kr) (Advisor: [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/)), and I was a research intern in [SNU Data Mining LAB](https://datalab.snu.ac.kr/).
 * My research interests include adversarial machine learning, recommender system, natural language processing, and data mining & parallel computing.
