@@ -16,7 +16,7 @@ redirect_from:
 
 # What's New?
 
-* (May. 2023) I am working in **[Netflix](https://research.netflix.com/)** as a **ML research intern** this summer! Can't wait to work on real-world movie/drama recommendations and collaborate with world-class researchers :)
+* (May. 2023) I am working in **[Netflix](https://research.netflix.com/)** as a **ML research intern** this summer! Can't wait to work on real-world movie/drama recommendations with my mentors **[Dr. Moumita Bhattacharya](https://sites.google.com/udel.edu/moumitabhattacharya)** and **[Dr. Yesu Feng](https://www.linkedin.com/in/yesufeng/)**:)
 
 * (May. 2023) I passed the thesis proposal defense and am a **PhD candidate** now! Just one more year to go!
 
