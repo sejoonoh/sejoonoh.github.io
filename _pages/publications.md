@@ -8,11 +8,11 @@ author_profile: true
 
 <b>[FINEST: Stablizing Recommendations by Rank-Preserving Fine-Tuning](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/FINEST_FAccTRec_2023.pdf)</b> <br>
 **Sejoon Oh**, Berk Ustun, Julian McAuley, and Srijan Kumar.  
-<i>ACM Conference on Recommender Systems (RecSys) FAccTRec Workshop, 2023.</i>
+<i>ACM Conference on Recommender Systems (RecSys) FAccTRec Workshop (Accepted), 2023.</i>
 
 <b>[Hierarchical Multi-Task Learning Framework for Session-based Recommendations](https://sejoonoh.github.io/)</b> <br>
-**Sejoon Oh**, Walid Shalaby, Amir Hossein Afsharinejad, and Xiquan Cui.
-<i>ACM Conference on Recommender Systems (RecSys) ORSUM Workshop, 2023.</i>
+**Sejoon Oh**, Walid Shalaby, Amir Hossein Afsharinejad, and Xiquan Cui.  
+<i>ACM Conference on Recommender Systems (RecSys) ORSUM Workshop (Accepted), 2023.</i>
 
 ## 2022
 
