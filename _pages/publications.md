@@ -3,10 +3,21 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.co.kr/cit
 permalink: /publications/
 author_profile: true
 ---
+
+## 2023
+
+<b>[“FINEST: Stablizing Recommendations by Rank-Preserving Fine-Tuning](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/FINEST_FAccTRec_2023.pdf)</b> <br>
+**Sejoon Oh**, Berk Ustun, Julian McAuley, and Srijan Kumar.  
+<i>ACM Conference on Recommender Systems (RecSys) FAccTRec Workshop, 2023.</i>
+
+<b>[Implicit Session Contexts for Next-Item Recommendations](https://arxiv.org/abs/2208.09076)</b> <br>
+**Sejoon Oh**, Walid Shalaby, Amir Hossein Afsharinejad, and Xiquan Cui.
+<i>ACM Conference on Recommender Systems (RecSys) ORSUM Workshop, 2023.</i>
+
 ## 2022
 
 <b>[Rank List Sensitivity of Recommender Systems to Interaction Perturbations](https://arxiv.org/abs/2201.12686)</b> <br>
-**Sejoon Oh**, Julian McAuley, Berk Ustun, and Srijan Kumar.  
+**Sejoon Oh**, Berk Ustun, Julian McAuley, and Srijan Kumar.  
 <i>ACM International Conference on Information and Knowledge Management (CIKM), 2022.</i>
 
 <b>[Implicit Session Contexts for Next-Item Recommendations](https://arxiv.org/abs/2208.09076)</b> <br>
