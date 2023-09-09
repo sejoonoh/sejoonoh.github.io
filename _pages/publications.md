@@ -8,24 +8,28 @@ author_profile: true
 
 <b>[FINEST: Stablizing Recommendations by Rank-Preserving Fine-Tuning](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/FINEST_FAccTRec_2023.pdf)</b> <br>
 **Sejoon Oh**, Berk Ustun, Julian McAuley, and Srijan Kumar.  
-<i>ACM Conference on Recommender Systems (RecSys) FAccTRec Workshop (Accepted), 2023.</i>
+(**[Paper](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/FINEST_FAccTRec_2023.pdf)**)   
+<i>ACM Conference on Recommender Systems (RecSys) FAccTRec Workshop, 2023.</i>
 
 <b>[Hierarchical Multi-Task Learning Framework for Session-based Recommendations](https://sejoonoh.github.io/)</b> <br>
 **Sejoon Oh**, Walid Shalaby, Amir Hossein Afsharinejad, and Xiquan Cui.  
-<i>ACM Conference on Recommender Systems (RecSys) ORSUM Workshop (Accepted), 2023.</i>
+<i>ACM Conference on Recommender Systems (RecSys) ORSUM Workshop, 2023.</i>
 
 ## 2022
 
 <b>[Rank List Sensitivity of Recommender Systems to Interaction Perturbations](https://arxiv.org/abs/2201.12686)</b> <br>
 **Sejoon Oh**, Berk Ustun, Julian McAuley, and Srijan Kumar.  
+(**[Paper](https://arxiv.org/abs/2201.12686)** | **[Code](https://github.com/claws-lab/casper)**)   
 <i>ACM International Conference on Information and Knowledge Management (CIKM), 2022.</i>
 
 <b>[Implicit Session Contexts for Next-Item Recommendations](https://arxiv.org/abs/2208.09076)</b> <br>
 **Sejoon Oh**, Jongseok Han, Ankur Bharadwaj, Sungchul Kim, Ryan A. Rossi, and Srijan Kumar.  
+(**[Paper](https://arxiv.org/abs/2208.09076)** | **[Code](https://github.com/claws-lab/iscon)**)   
 <i>ACM International Conference on Information and Knowledge Management (CIKM) short, 2022.</i>
 
 <b>[M2TRec: Metadata-aware Multi-task Transformer for Large-scale and Cold-start free Session-based Recommendations](https://sejoonoh.github.io/publications/)</b> <br>
 Walid Shalaby, **Sejoon Oh**, Amir Hossein Afsharinejad, Xiquan Cui, and Srijan Kumar.  
+(**[Paper](https://arxiv.org/abs/2209.11824)**)   
 <i>ACM Conference on Recommender Systems (RecSys) LBR, 2022.</i>
 
 ## 2021
