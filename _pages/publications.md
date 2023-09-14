@@ -11,8 +11,9 @@ author_profile: true
 (**[Paper](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/FINEST_FAccTRec_2023.pdf)**)   
 <i>ACM Conference on Recommender Systems (RecSys) FAccTRec Workshop, 2023.</i>
 
-<b>[Hierarchical Multi-Task Learning Framework for Session-based Recommendations](https://sejoonoh.github.io/)</b> <br>
+<b>[Hierarchical Multi-Task Learning Framework for Session-based Recommendations](https://arxiv.org/abs/2309.06533)</b> <br>
 **Sejoon Oh**, Walid Shalaby, Amir Hossein Afsharinejad, and Xiquan Cui.  
+(**[Paper](https://arxiv.org/pdf/2309.06533.pdf)**)   
 <i>ACM Conference on Recommender Systems (RecSys) ORSUM Workshop, 2023.</i>
 
 ## 2022
