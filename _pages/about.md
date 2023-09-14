@@ -16,7 +16,7 @@ redirect_from:
 
 # What's New?
 
-* (Aug. 2023) Two papers **[FINEST](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/FINEST_FAccTRec_2023.pdf)** and **[HierSRec](https://sejoonoh.github.io/)** are accepted to **RecSys 2023 [FAccTRec Workshop](https://facctrec.github.io/facctrec2023/) and [ORSUM Workshop](https://orsum.inesctec.pt/orsum2023/index.php)**! **FINEST** improves the robustness of existing recommenders against input perturbations, and **HierSRec** introduces hierarchical multi-task learning for session-based recommendations.
+* (Aug. 2023) Two papers **[FINEST](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/FINEST_FAccTRec_2023.pdf)** and **[HierSRec](https://arxiv.org/abs/2309.06533)** are accepted to **RecSys 2023 [FAccTRec Workshop](https://facctrec.github.io/facctrec2023/) and [ORSUM Workshop](https://orsum.inesctec.pt/orsum2023/index.php)**! **FINEST** improves the robustness of existing recommenders against input perturbations, and **HierSRec** introduces hierarchical multi-task learning for session-based recommendations.
  
 * (Aug. 2023) I finished my ML research internship in **[Netflix](https://research.netflix.com/)**! We built a multi-task learning model that can predict user intent and use the intent to enhance the next-item prediction. Many thanks to my mentors: **[Dr. Moumita Bhattacharya](https://sites.google.com/udel.edu/moumitabhattacharya)** and **[Dr. Yesu Feng](https://www.linkedin.com/in/yesufeng/)**:)
 
