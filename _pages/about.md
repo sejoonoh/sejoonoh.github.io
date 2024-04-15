@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am an incoming research scientist in [Netflix](https://research.netflix.com/).
+* I am an incoming research scientist in [Netflix](https://research.netflix.com/), starting from June 2024.
 * I received my CS Ph.D. in [Georgia Institute of Technology](https://www.gatech.edu/), advised by [Prof. Srijan Kumar](https://www.cc.gatech.edu/~srijan/).
 * My research interests include recommender systems, large language models, generative AI, and adversarial machine learning.
 * I enjoy **playing tennis, working out, video gaming, and traveling** in my free time!  
