@@ -16,7 +16,7 @@ redirect_from:
 # What's New?
 
 
-* (May. 2024) I am graduating from Georgia Tech and will start a new full-time research scientist position in **[Netflix](https://research.netflix.com/)**! Many thanks to my mentors: **[Dr. Moumita Bhattacharya](https://sites.google.com/udel.edu/moumitabhattacharya)** and **[Dr. Yesu Feng](https://www.linkedin.com/in/yesufeng/)** and manager **[Sudarshan Lamkhede](https://www.linkedin.com/in/sudarshanlamkhede/)** :)
+* (May. 2024) I finally graduated from Georgia Tech and will start a new full-time research scientist position in **[Netflix](https://research.netflix.com/)**! Many thanks to my mentors: **[Dr. Moumita Bhattacharya](https://sites.google.com/udel.edu/moumitabhattacharya)** and **[Dr. Yesu Feng](https://www.linkedin.com/in/yesufeng/)** and manager **[Sudarshan Lamkhede](https://www.linkedin.com/in/sudarshanlamkhede/)** :)
   
 * (Apr. 2024) I passed my thesis defense and finally got my **PhD in CS**! Special thanks to my advisor **[Prof. Srijan Kumar](https://www.cc.gatech.edu/~srijan/)**, all the CLAWS lab members, collaborators, and sponsors for their unwavering support, valuable, feedback, and encouragement :)
   
