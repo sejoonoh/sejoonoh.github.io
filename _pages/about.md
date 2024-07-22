@@ -8,18 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-* I am a **research scientist @ [Netflix](https://research.netflix.com/)**, starting from June 2024.
+* I am a **Research Scientist @ [Netflix](https://research.netflix.com/)** working on **Foundation Models** in Netflix.
 * I received my CS Ph.D. in **[Georgia Institute of Technology](https://www.gatech.edu/)**, advised by **[Prof. Srijan Kumar](https://www.cc.gatech.edu/~srijan/)**.
-* My research interests include **recommender systems, large language models, generative AI, and adversarial machine learning**.
+* My research interests include **Recommender Systems, Large Language Models, Generative AI, and Adversarial Machine Learning**.
 * I enjoy **playing tennis, working out, video gaming, and traveling** in my free time!  
 
 # What's New?
 
+* (July. 2024) A adversarial ML + RecSys paper **[ATR](https://sejoonoh.github.io/publications/)** is accepted to **[CIKM 2024](https://cikm2024.org/)**. We investigate the robustness of SOTA text-aware recommender systems against our proposed text rewriting attack **ATR**. 
 
 * (Jun. 2024) I just started a new full-time research scientist position @ **[Netflix](https://research.netflix.com/)**! Many thanks to my mentors: **[Dr. Moumita Bhattacharya](https://sites.google.com/udel.edu/moumitabhattacharya)** and **[Dr. Yesu Feng](https://www.linkedin.com/in/yesufeng/)** and manager **[Sudarshan Lamkhede](https://www.linkedin.com/in/sudarshanlamkhede/)** :)
   
 * (Apr. 2024) I passed my thesis defense and finally got my **PhD in CS**! Special thanks to my advisor **[Prof. Srijan Kumar](https://www.cc.gatech.edu/~srijan/)**, all the CLAWS lab members, collaborators, and sponsors for their unwavering support, valuable feedback, and encouragement :)
   
-* (Aug. 2023) Two papers **[FINEST](https://arxiv.org/abs/2402.03481)** and **[HierSRec](https://arxiv.org/abs/2309.06533)** are accepted to **RecSys 2023 [FAccTRec Workshop](https://facctrec.github.io/facctrec2023/) and [ORSUM Workshop](https://orsum.inesctec.pt/orsum2023/index.php)**! **FINEST** improves the robustness of existing recommenders against input perturbations, and **HierSRec** introduces hierarchical multi-task learning for session-based recommendations.
- 
 
