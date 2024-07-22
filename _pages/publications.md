@@ -4,11 +4,23 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2024
+
+<b>[Adversarial Text Rewriting for Text-aware Recommender Systems](https://sejoonoh.github.io/publications/)</b> <br>
+**Sejoon Oh**, Gaurav Verma, and Srijan Kumar.  
+(**Paper: To Appear**)   
+<i>ACM International Conference on Information and Knowledge Management (CIKM), 2024.</i>
+
+<b>[Cross-Modal Projection in Multimodal LLMs Doesn't Really Project Visual Attributes to Textual Space](https://claws-lab.github.io/projection-in-MLLMs/)</b> <br>
+Gaurav Verma, Minje Choi, Kartik Sharma, Jamelle Watson-Daniels, **Sejoon Oh**, and Srijan Kumar  
+(**[Paper](https://arxiv.org/abs/2402.16832)** | **[Code](https://github.com/claws-lab/projection-in-MLLMs)**)   
+<i>The 62nd Annual Meeting of the Association for Computational Linguistics (ACL), 2024</i>
+
 ## 2023
 
 <b>[FINEST: Stabilizing Recommendations by Rank-Preserving Fine-Tuning](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/FINEST_FAccTRec_2023.pdf)</b> <br>
 **Sejoon Oh**, Berk Ustun, Julian McAuley, and Srijan Kumar.  
-(**[Paper](https://arxiv.org/abs/2402.03481)**)   
+(**[Paper](https://arxiv.org/abs/2402.03481)** | **[Code](https://github.com/claws-lab/finest-recsys)**) )   
 <i>ACM Conference on Recommender Systems (RecSys) FAccTRec Workshop, 2023.</i>
 
 <b>[Hierarchical Multi-Task Learning Framework for Session-based Recommendations](https://arxiv.org/abs/2309.06533)</b> <br>
