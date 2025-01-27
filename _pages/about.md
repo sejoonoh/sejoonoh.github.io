@@ -15,7 +15,7 @@ redirect_from:
 
 # What's New?
 
-* (Jan. 2025) My **EB-1B (Outstanding Professors and Researchers)** green card application has been approved! Excited to develop my career in the US for a long time :)
+* (Jan. 2025) My **[EB-1B (Outstanding Professors and Researchers)](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1)** green card application has been approved! Excited to develop my career in the US for a long time :)
 * (Dec. 2024) Our **[UniGuard](https://arxiv.org/abs/2411.01703)** paper is accepted to **[DAI 2025 workshop](https://sites.google.com/view/dai-2025/home)** at **AAAI**. **UniGuard** is a novel multimodal safety guardrail that ensure safe LLM responses against adversarial prompts.
 * (Sept. 2024) An intent-aware RecSys paper **[IntentRec](https://www.arxiv.org/abs/2408.05353)** is accepted to **[BayLearn - Machine Learning Symposium 2024](https://baylearn-org.github.io/www/index.html)**! **IntentRec** improves next-item recommendations by finding a user session intent with hierarchical multi-task learning!
 
