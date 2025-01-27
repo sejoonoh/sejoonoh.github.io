@@ -16,7 +16,7 @@ redirect_from:
 # What's New?
 
 * (Jan. 2025) My **EB-1B (Outstanding Professors and Researchers)** green card application has been approved! Excited to develop my career in the US for a long time :)
-* (Dec. 2024) Our **[UniGuard](https://arxiv.org/abs/2411.01703)** paper is accepted to [DAI 2025 workshop](https://sites.google.com/view/dai-2025/home) at **AAAI**. **UniGuard** is a novel multimodal safety guardrail that ensure the safe output against multimodal harmful signals.
+* (Dec. 2024) Our **[UniGuard](https://arxiv.org/abs/2411.01703)** paper is accepted to **[DAI 2025 workshop](https://sites.google.com/view/dai-2025/home)** at **AAAI**. **UniGuard** is a novel multimodal safety guardrail that ensure the safe output against multimodal harmful signals.
 * (Sept. 2024) An intent-aware RecSys paper **[IntentRec](https://www.arxiv.org/abs/2408.05353)** is accepted to **[BayLearn - Machine Learning Symposium 2024](https://baylearn-org.github.io/www/index.html)**! **IntentRec** improves next-item recommendations by finding a user session intent with hierarchical multi-task learning!
 
 * (Aug. 2024) A adversarial defense paper **[FINEST](https://dl.acm.org/doi/10.1145/3695256)** is accepted to **[TKDD Journal](https://dl.acm.org/journal/tkdd)**! We enhance the stability of existing sequential recommender systems via a special fine-tuning method called **FINEST**!
