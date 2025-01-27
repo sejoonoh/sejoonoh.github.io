@@ -3,6 +3,12 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.co.kr/cit
 permalink: /publications/
 author_profile: true
 ---
+## 2025
+
+<b>[UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models](https://arxiv.org/abs/2411.01703)</b> <br>
+**Sejoon Oh**, Yiqiao Jin, Megha Sharma, Donghyun Kim, Eric Ma, Gaurav Verma, Srijan Kumar.  
+(**[Paper](https://arxiv.org/abs/2411.01703)**)   
+<i>Deployable AI (DAI) Workshop - AAAI, 2025.</i>
 
 ## 2024
 
