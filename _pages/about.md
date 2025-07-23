@@ -10,7 +10,7 @@ redirect_from:
 
 * I am a **GenAI/ML Research Scientist @ [Netflix](https://research.netflix.com/)** working on **Foundation Models** at Netflix.
 * I received my CS Ph.D. in **[Georgia Institute of Technology](https://www.gatech.edu/)**, advised by **[Prof. Srijan Kumar](https://www.cc.gatech.edu/~srijan/)**.
-* My research interests include **Generative AI, Multimodal LLMs, Recommender Systems, and Adversarial ML**.
+* My research interests include **Generative AI, Multimodal LLMs, AI Safety and Alignment, and Recommender Systems!**.
 * I enjoy **playing tennis, working out, video gaming, and traveling** in my free time!  
 
 # What's New?
