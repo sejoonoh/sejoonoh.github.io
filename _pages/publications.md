@@ -5,6 +5,11 @@ author_profile: true
 ---
 ## 2025
 
+<b>[FM-Intent: Predicting User Session Intent with Hierarchical Multi-Task Learning](https://netflixtechblog.com/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task-learning-94c75e18f4b8)</b> <br>
+**Sejoon Oh**, Moumita Bhattacharya, Yesu Feng, Ko-Jen Hsiao, and Justin Basilico.  
+(**[Article](https://netflixtechblog.com/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task-learning-94c75e18f4b8)**)   
+<i>Netflix Tech Blog, 2025.</i>
+
 <b>[UniGuard: Towards Universal Safety Guardrails for Jailbreak Attacks on Multimodal Large Language Models](https://arxiv.org/abs/2411.01703)</b> <br>
 **Sejoon Oh**, Yiqiao Jin, Megha Sharma, Donghyun Kim, Eric Ma, Gaurav Verma, Srijan Kumar.  
 (**[Paper](https://arxiv.org/abs/2411.01703)**)   
