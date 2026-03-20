@@ -15,7 +15,7 @@ redirect_from:
 
 # What's New?
 
-* (Jan. 2026) Our **[LLM post-training paper](https://arxiv.org/abs/2601.02764)** has been published to [Netflix Research Homepage](https://research.netflix.com/publication/netflix-artwork-personalization-via-llm-post-training)! We show that fine-tuning Llama 3 with multimodal engagement and content data in Netflix is better than our production model, as per personalizing artwork (i.e., poster or thumbnail)!
+* (Jan. 2026) Our **[LLM post-training paper](https://arxiv.org/abs/2601.02764)** has been published to [Netflix Research Homepage](https://research.netflix.com/publication/netflix-artwork-personalization-via-llm-post-training)! We show that fine-tuning Llama 3 with multimodal engagement and content data in Netflix is better than our production model, as per personalizing artwork (i.e., thumbnail)!
 
 * (May 2025) Our foundation model **[FM-Intent](https://netflixtechblog.com/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task-learning-94c75e18f4b8)** has been published to [Netflix Tech Blog](https://netflixtechblog.com/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task-learning-94c75e18f4b8) and [Netflix Research Homepage](https://research.netflix.com/publication/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task)! **FM-Intent** is a production model that can predict a user's intent on Netflix and leverage such user intent for next-item recommendation!
 
