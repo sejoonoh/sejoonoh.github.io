@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Sejoon Oh** is a AI Foundation Researcher @ Netflix.   
+**Sejoon Oh** is a senior AI Foundation Researcher @ Netflix.   
 He received his Ph.D. in Computer Science at Georgia Tech, advised by Prof. [Srijan Kumar](https://www.cc.gatech.edu/~srijan/).  
 He is an EB-1B (Outstanding Professors and Researchers) green card holder.  
 He had received Kwanjeong Educational Foundation Fellowship from 2019 to 2024.  
@@ -16,6 +16,6 @@ He also won 2021 ML@GT fellowship, 2021 Twitch Research Fellowship, 2018 Samsung
 He has published various papers in top GenAI/ML/RecSys venues.  
 His research interests include Generative AI, Foundation Models, Multimodal LLMs, AI Safety and Alignment, and Recommender Systems. 
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_Sejoon_Oh_Dec2025.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_Sejoon_Oh_Mar2026.pdf)
 
 <!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
