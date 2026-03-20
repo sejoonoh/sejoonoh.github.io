@@ -10,7 +10,7 @@ redirect_from:
 
 * I am a **Senior AI Researcher @ [Netflix](https://research.netflix.com/)** working on **LLMs/Foundation Models**.
 * I received my CS Ph.D. in **[Georgia Institute of Technology](https://www.gatech.edu/)**, advised by **[Prof. Srijan Kumar](https://www.cc.gatech.edu/~srijan/)**.
-* My research interests include **AI, Multimodality, Foundation Model, AI Safety and Alignment, Interpretability, and Recommender Systems!**.
+* My research interests include **Personalization, Multimodality, AI Safety and Alignment, Interpretability, Physical AI!**
 * I enjoy **playing tennis, working out, video gaming, and traveling** in my free time!  
 
 # What's New?
