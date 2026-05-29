@@ -6,10 +6,10 @@ author_profile: true
 
 ## 2026
 
-<b>[Netflix Artwork Personalization via LLM Post-training](https://research.netflix.com/publication/netflix-artwork-personalization-via-llm-post-training)</b> <br>
+<b>[Modeling Diverse Preferences in Movie Artwork Personalization with Large Language Models](https://pluralistic-alignment.github.io/)</b> <br>
 Hyunji Nam, **Sejoon Oh**, Emma Kong, Yesu Feng, Moumita Bhattacharya.  
 (**[Paper](https://arxiv.org/abs/2601.02764)**)   
-<i>Arxiv & Netflix Research, 2025.</i>
+<i>Pluralistic Alignment Workshop - ICML, 2026.</i>
 
 ## 2025
 
