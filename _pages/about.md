@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-* I am a **Senior AI Researcher @ [Netflix](https://research.netflix.com/)** working on **LLMs/Foundation Models**.
+* I am a **Senior AI Researcher @ [Netflix](https://research.netflix.com/)** working on **AI Foundation Models**.
 * I received my CS Ph.D. in **[Georgia Institute of Technology](https://www.gatech.edu/)**, advised by **[Prof. Srijan Kumar](https://www.cc.gatech.edu/~srijan/)**.
-* My research interests include **Personalization, Multimodality, AI Safety and Alignment, Interpretability, Physical AI!**
+* My research interests include **Agents, Personalization, Multimodality, Safety, and Interpretability!**
 * I enjoy **playing tennis, working out, video gaming, and traveling** in my free time!  
 
 # What's New?
 
-* (Jan. 2026) Our **[LLM post-training paper](https://arxiv.org/abs/2601.02764)** has been published to [Netflix Research Homepage](https://research.netflix.com/publication/netflix-artwork-personalization-via-llm-post-training)! We show that fine-tuning Llama 3 with multimodal engagement and content data in Netflix is better than our production model, as per personalizing artwork (i.e., thumbnail)!
+* (May. 2026) Our **[LLM post-training paper](https://arxiv.org/abs/2601.02764)** has been accepted to [ICML Pluralistic Alignment Workshop](https://pluralistic-alignment.github.io/)! We show that LLM post-training with multimodal engagement and content data in Netflix is better than our production model, as per personalizing artwork (i.e., thumbnail)!
 
 * (May 2025) Our foundation model **[FM-Intent](https://netflixtechblog.com/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task-learning-94c75e18f4b8)** has been published to [Netflix Tech Blog](https://netflixtechblog.com/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task-learning-94c75e18f4b8) and [Netflix Research Homepage](https://research.netflix.com/publication/fm-intent-predicting-user-session-intent-with-hierarchical-multi-task)! **FM-Intent** is a production model that can predict a user's intent on Netflix and leverage such user intent for next-item recommendation!
 
