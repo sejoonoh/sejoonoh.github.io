@@ -7,7 +7,7 @@ author_profile: true
 ## 2026
 
 <b>[Personalized LLM Recommendation with Semantic IDs: Autoregressive Beam Search vs. Multi-Token Prediction](https://palm-neurips-2026.github.io/)</b> <br>
-**Sejoon Oh**, Fernando Amat, Evan Smothers, Dan Iter, Mark Thornburg, Dawit Mureja Argaw, Sourabh Medapati, Yuyan Wang, Ria Verma, Qiuling Xu, Harshit Syal, Ehsan Gholami, Moumita Bhattacharya, Ashish Rastogi.
+**Sejoon Oh**, Fernando Amat, Evan Smothers, Dan Iter, Mark Thornburg, Dawit Mureja Argaw, Sourabh Medapati, Yuyan Wang, Ria Verma, Qiuling Xu, Harshit Syal, Ehsan Gholami, Moumita Bhattacharya, Ashish Rastogi.  
 (**[Paper](https://arxiv.org/abs/2610.15864)**)   
 <i>Personalized, Aligned, Long-term Memory for AI Systems Workshop - NeurIPS, 2026.</i>
 
