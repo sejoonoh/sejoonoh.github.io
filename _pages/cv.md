@@ -16,6 +16,6 @@ He also won 2021 ML@GT fellowship, 2021 Twitch Research Fellowship, 2018 Samsung
 He has published various papers in top AI/ML/RecSys venues such as NeurIPS, ICML, ACL, AAAI, RecSys, etc.  
 His research interests include Agents, Personalization, Multimodality, Safety and Alignment, and Recommender Systems. 
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_Sejoon_Oh_May2026.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/sejoonoh/sejoonoh.github.io/blob/master/files/CV_Sejoon_Oh_Oct2026.pdf)
 
 <!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
