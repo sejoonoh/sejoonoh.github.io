@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 **Sejoon Oh** is a senior AI Research Scientist @ Netflix.   
-His research interests include Agents, Personalization, Multimodality, Safety and Alignment, and Physical AI. 
+His research interests include Agents, Personalization, Multimodality, Safety and Alignment, and Physical AI.   
 He has published various papers in top venues such as NeurIPS, ICML, ACL, AAAI, RecSys, etc.  
 He received his Ph.D. in Computer Science at Georgia Tech, advised by Prof. [Srijan Kumar](https://www.cc.gatech.edu/~srijan/).  
 He had received Kwanjeong Educational Foundation Fellowship from 2019 to 2024.  
