@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-* I am a **Senior AI Researcher @ [Netflix](https://research.netflix.com/)** working on **AI Foundation Models**.
+* I am a **Senior AI Research Scientist @ [Netflix](https://research.netflix.com/)** working on **Post Training, Agents, Personalization, Multimodality, etc.**
 * I received my CS Ph.D. in **[Georgia Institute of Technology](https://www.gatech.edu/)**, advised by **[Prof. Srijan Kumar](https://www.cc.gatech.edu/~srijan/)**.
-* My research interests include **Agents, Personalization, Multimodality, Safety, and Interpretability!**
 * I enjoy **playing tennis, working out, video gaming, and traveling** in my free time!  
 
 # What's New?
